@@ -1,0 +1,44 @@
+## Tools and Libraries Used
+
+### Development Tools
+- Visual Studio Code (VS Code)
+- Python Interpreter
+- Command Prompt / Terminal
+
+---
+
+## Python Libraries Used
+
+| Library | Purpose |
+|---|---|
+| time | Measure execution time |
+| matplotlib | Generate performance graphs |
+| collections | Store and manage data structures |
+
+---
+
+## Algorithms Implemented
+
+| Algorithm | Purpose |
+|---|---|
+| Naive Pattern Matching | Basic sequential searching |
+| KMP Algorithm | Efficient string matching using LPS table |
+| Rabin-Karp | Hash-based pattern searching |
+| Boyer-Moore | Fast searching using bad character heuristic |
+
+---
+
+## Technologies Used
+
+| Component | Technology |
+|---|---|
+| Programming Language | Python |
+| Visualization | Matplotlib |
+| IDE | VS Code |
+
+---
+
+## Required Library Installation
+
+```bash
+pip install matplotlib
